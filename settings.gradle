@@ -1,0 +1,2 @@
+rootProject.name='MyBarCharApplication'
+include ':app'
